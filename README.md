@@ -1,7 +1,6 @@
 # wall_segmentation
 <p>
 <li><b>Segmentation</b></li>
-I used the pretrained model in this 
 I used the pre-trained model which is in this <a href="https://github.com/bjekic/WallSegmentation">repo</a> to segment the wall and generate the mask. 
   <img width="300" src="https://github.com/saeed-hashemi/wall_segmentation/blob/main/mask.jpg"/>
   <small><b>TODO:</b> For removing island masks a threshold on size can be used.</small>
